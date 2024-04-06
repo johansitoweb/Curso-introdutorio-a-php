@@ -1,0 +1,14 @@
+body{
+    background-image: url("actualizado\ \(4\).png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#cdops{
+    width: auto;
+    height: auto;
+    border-radius: 12px;
+    margin: 2px;
+    padding: 2px;
+    border:  solid 3px blueviolet;
+}
